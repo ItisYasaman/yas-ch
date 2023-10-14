@@ -34,3 +34,9 @@
   display: block;
   margin: 10px 0;
 }
+
+.icons {
+  position: relative;
+  right: 3px;
+  top:5px;
+}

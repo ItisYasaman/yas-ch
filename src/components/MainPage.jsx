@@ -23,7 +23,7 @@ const MainPage = () => {
           <h1>Yasaman Choubeh</h1>
           <h4>Program Manager</h4>
           <small style={{ color: "red" }}>
-            <i class="fa-solid fa-location-dot" style={{ fontSize: "18px" }} />{" "}
+            <i className="fa-solid fa-location-dot icons" style={{ fontSize: "18px" }} />{" "}
             (GMT-4){" "}
           </small>
         </header>
@@ -36,11 +36,10 @@ const MainPage = () => {
             className="address-link"
             style={{ fontSize: "20px" }}
           >
-            <i class="fa-brands fa-linkedin" style={{ fontSize: "30px" }} />@yasaman-choubeh</a>
+            <i className="fa-brands fa-linkedin icons" style={{ fontSize: "30px" }} />@yasaman-choubeh</a>
 
           <a href="mailto:yasaman@united4iran.org" className="address-link">
-            <i className="far fa-envelope" style={{ fontSize: "25px" }}></i>
-             yasaman@united4iran.org
+            <i className="far fa-envelope icons" style={{ fontSize: "25px" }} /> yasaman@united4iran.org
           </a>
 
           <p className="address-link">
@@ -48,8 +47,7 @@ const MainPage = () => {
               src={signalApp}
               alt="Signal App Icon"
               style={{ width: "30px" }}
-            />
-            Signal App: {phoneNumber}
+            /> Signal App: {phoneNumber}
           </p>
         </address>
       </div>
