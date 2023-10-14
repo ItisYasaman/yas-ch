@@ -36,13 +36,11 @@ const MainPage = () => {
             className="address-link"
             style={{ fontSize: "20px" }}
           >
-            <i class="fa-brands fa-linkedin" style={{ fontSize: "30px" }} />
-            @yasaman-choubeh
-          </a>
+            <i class="fa-brands fa-linkedin" style={{ fontSize: "30px" }} />@yasaman-choubeh</a>
 
           <a href="mailto:yasaman@united4iran.org" className="address-link">
             <i className="far fa-envelope" style={{ fontSize: "25px" }}></i>
-            yasaman@united4iran.org
+             yasaman@united4iran.org
           </a>
 
           <p className="address-link">
