@@ -17,7 +17,7 @@ const MainPage = () => {
 
   return (
     <div className="mainPage">
-      <img src="/your-image-path.jpg" alt="" className="owner-image" />
+      <img className="owner-image" />
       <div className="main_component">
         <header>
           <h1>Yasaman Choubeh</h1>
@@ -36,12 +36,12 @@ const MainPage = () => {
             className="address-link"
             style={{ fontSize: "20px" }}
           >
-            <i class="fa-brands fa-linkedin" style={{ fontSize: "30px" }} />{" "}
+            <i class="fa-brands fa-linkedin" style={{ fontSize: "30px" }} />
             @yasaman-choubeh
           </a>
 
           <a href="mailto:yasaman@united4iran.org" className="address-link">
-            <i className="far fa-envelope" style={{ fontSize: "25px" }}></i>{" "}
+            <i className="far fa-envelope" style={{ fontSize: "25px" }}></i>
             yasaman@united4iran.org
           </a>
 
@@ -50,7 +50,7 @@ const MainPage = () => {
               src={signalApp}
               alt="Signal App Icon"
               style={{ width: "30px" }}
-            />{" "}
+            />
             Signal App: {phoneNumber}
           </p>
         </address>

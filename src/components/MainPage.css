@@ -21,6 +21,7 @@
   margin: 0 auto;
   background-image: url("../img/Yas.png");
   background-size: cover;
+  z-index: 999;
 }
 
 .main_component {
