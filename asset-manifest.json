@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/yas-ch/static/css/main.7fbece27.css",
+    "main.js": "/yas-ch/static/js/main.10a4e875.js",
+    "static/media/bg-stars.jpg": "/yas-ch/static/media/bg-stars.5dc7b586d3a40f9b9acb.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/yas-ch/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/yas-ch/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/yas-ch/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/yas-ch/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/yas-ch/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/signal-app.png": "/yas-ch/static/media/signal-app.d21e32c090b7a533889a.png",
+    "static/media/Yas.png": "/yas-ch/static/media/Yas.e06d434dea94b019e647.png",
+    "index.html": "/yas-ch/index.html",
+    "main.7fbece27.css.map": "/yas-ch/static/css/main.7fbece27.css.map",
+    "main.10a4e875.js.map": "/yas-ch/static/js/main.10a4e875.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fbece27.css",
+    "static/js/main.10a4e875.js"
+  ]
+}
